@@ -1,0 +1,8 @@
+由于EnlightenGAN出现不确定性，故原定测试数据low_20250430_only100改为EnlightenGAN-master/images_A，则：
+测试集：
+----EnlightenGAN：EnlightenGAN-master/images_A
+增强集：
+----EnlightenGAN：EnlightenGAN-master/images_B
+----LIME：LIME
+----Retinex-Net：Retinex-Net
+----本章算法：本章算法
